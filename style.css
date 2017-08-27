@@ -4,25 +4,43 @@
 
 
 
-html {
-    background-color : #222629;
+/*html {
+
+    background-color : #CFC8C4;
+}*/
+
+body {
+    background-image : url("https://d33ypg4xwx0n86.cloudfront.net/direct?url=https%3A%2F%2Fwallpapers.wallhaven.cc%2Fwallpapers%2Ffull%2Fwallhaven-345123.jpg&resize=w1408");
+    background-repeat : no-repeat;
+    background-attachment : fixed;
+    background-position : center;
+    background-size : cover;
+    background-color : #000000;
 }
 
 #main-content {
-    width : 700px;
+    width : 600px;
     margin : auto;
+}
+
+section {
+    border-style : solid;
+    border-radius : 30px;
+    margin : auto;
+    margin-bottom : 10px;
+    padding : 10px;
 }
 
 p {
     font-family : seriff;
-    color : #e0e0e0;
+    color : #B89484;
     text-align : justify;
 }
 
 h1 {
     text-align : center;
     font-size: 140px;
-    color : #802020;
+    color : #800517;
 }
 
 h2 {
@@ -34,6 +52,23 @@ ul {
 }
 
 .sidebar-nav {
-    margin : auto;
+    margin : 0;
     width : 700px;
 }
+
+
+
+
+
+
+
+
+/* pallette
+
+sadness in tones        #CFC8C4
+yea, y                  #B89484
+Brown surpruse          #998076
+cold outside            #4D362C
+Firebrick               #800517
+
+*/
