@@ -29,18 +29,34 @@ section {
     margin : auto;
     margin-bottom : 10px;
     padding : 10px;
+    background-color : rgba(207, 200, 196, .7);
 }
 
+
 p {
-    font-family : seriff;
-    color : #B89484;
+    font-family : serif;
+    color : #4d362c;
     text-align : justify;
 }
 
-h1 {
+.site-title {
     text-align : center;
-    font-size: 140px;
+    font-size: 120px;
     color : #800517;
+    background-color : rgba(207, 200, 196, .7);
+    width : 650px;
+    margin : auto;
+    border-radius : 30px;
+    margin-bottom : 40px;
+}
+
+.tagline {
+    font-size : 40px;
+    background-color : rgba(207, 200, 196, .7);
+    width : 800px;
+    margin : auto;
+    border-radius : 30px;
+    margin-bottom : 40px;
 }
 
 h2 {
@@ -51,10 +67,6 @@ ul {
     list-style-position : inside;
 }
 
-.sidebar-nav {
-    margin : 0;
-    width : 700px;
-}
 
 
 
